@@ -1,0 +1,5 @@
+export enum LoanPropertyUseType {
+    ANY = 'ANY',
+    OWNER_OCCUPIED = 'OWNER_OCCUPIED',
+    RESIDENTIAL_INVESTMENT = 'RESIDENTIAL_INVESTMENT',
+}

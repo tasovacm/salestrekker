@@ -1,0 +1,8 @@
+export enum PaymentFrequencyType {
+    WEEKLY = 'WEEKLY',
+    FORTNIGHTLY = 'FORTNIGHTLY',
+    MONTHLY = 'MONTHLY',
+    QUARTERLY = 'QUARTERLY',
+    SEMIANNUAL = 'SEMIANNUAL',
+    ANNUALLY = 'ANNUALLY',
+}

@@ -1,0 +1,6 @@
+export enum TransactionType {
+    EQUITY_RELEASE = 'EQUITY_RELEASE',
+    PURCHASE = 'PURCHASE',
+    REFINANCE = 'REFINANCE',
+    TOP_UP_OR_INCREASE = 'TOP_UP_OR_INCREASE',
+}
